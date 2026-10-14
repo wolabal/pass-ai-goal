@@ -1,0 +1,4 @@
+node_modules/
+.pass-ai-goal/
+*.tmp
+.DS_Store

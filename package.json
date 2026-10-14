@@ -1,0 +1,16 @@
+{
+  "name": "pass-ai-goal",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "bin": {
+    "pass-ai-goal": "./src/mcp-server.ts"
+  },
+  "scripts": {
+    "test": "node --test src/*.test.ts",
+    "start": "node src/mcp-server.ts"
+  }
+}

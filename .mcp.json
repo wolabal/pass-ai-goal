@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pass-ai-goal": {
+      "command": "node",
+      "args": ["src/mcp-server.ts"]
+    }
+  }
+}
